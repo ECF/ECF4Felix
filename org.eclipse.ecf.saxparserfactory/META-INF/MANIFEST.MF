@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SaxParserFactory
+Bundle-SymbolicName: org.eclipse.ecf.saxparserfactory
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.eclipse.ecf.saxparserfactory.Activator
+Bundle-Vendor: ECF - Eclipse.org
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Import-Package: javax.xml.parsers,org.osgi.framework;version="1.3.0"
