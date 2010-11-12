@@ -1,2 +1,3 @@
 1.) Install pax-runner from http://paxrunner.ops4j.org/space/Pax+Runner
 2.) pax-run --args=https://github.com/ECF/ECF4Felix/raw/master/eclipse.ecf.dosgi.args
+3.) Open http://localhost:8080/system/console/
