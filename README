@@ -1,2 +1,2 @@
 1.) Install pax-runner from http://paxrunner.ops4j.org/space/Pax+Runner
-2.) pax-run ...
+2.) pax-run --args=https://github.com/ECF/Releng/raw/master/eclipse.ecf.dosgi.args
