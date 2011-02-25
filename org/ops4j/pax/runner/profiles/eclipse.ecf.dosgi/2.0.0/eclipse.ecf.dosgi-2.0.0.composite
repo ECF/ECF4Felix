@@ -26,8 +26,8 @@ scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin
 scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin.proxy/1.0.0.v20110225-0726
 scan-bundle:mvn:org.eclipse.osgi/org.eclipse.osgi.services.remoteserviceadmin/1.0.0.v20110225-0206
 # ECF remoteservice provider
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider/4.0.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice/3.4.0.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider/4.1.0.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice/4.0.0.v20110225-0726
 # ECF discovery provider
 scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.jmdns/4.1.0.v20110225-0726
 
