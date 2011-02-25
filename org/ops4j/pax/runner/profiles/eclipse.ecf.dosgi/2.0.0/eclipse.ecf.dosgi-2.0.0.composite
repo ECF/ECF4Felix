@@ -14,20 +14,20 @@ scan-bundle:http://download.eclipse.org/equinox/drops/S-3.7M3-201010281441/org.e
 scan-composite:mvn:org.ops4j.pax.runner.profiles/compendium/4.2.0/composite
 
 #Eclipse ECF base
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf/3.1.200.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.identity/3.1.100.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.sharedobject/2.2.100.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf/3.1.200.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.identity/3.1.100.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.sharedobject/2.2.100.v20110225-1732
 # ECF remote/discovery API
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.remoteservice/6.0.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.discovery/4.0.0.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.remoteservice/6.0.0.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.discovery/4.0.0.v20110225-1732
 # dosgi impl
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.distribution/2.0.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin/1.0.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin.proxy/1.0.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.osgi/org.eclipse.osgi.services.remoteserviceadmin/1.0.0.v20110225-0206
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.distribution/2.0.0.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin/1.0.0.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin.proxy/1.0.0.v20110225-1732
+scan-bundle:mvn:org.eclipse.osgi/org.eclipse.osgi.services.remoteserviceadmin/1.0.0.v20110225-1602
 # ECF remoteservice provider
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider/4.1.0.v20110225-0726
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice/4.0.0.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider/4.1.0.v20110225-1732
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice/4.0.0.v20110225-1732
 # ECF discovery provider
-scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.jmdns/4.1.0.v20110225-0726
+scan-bundle:mvn:org.eclipse.ecf/org.eclipse.ecf.provider.jmdns/4.1.0.v20110225-1732
 
