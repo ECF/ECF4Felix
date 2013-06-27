@@ -1,3 +1,6 @@
 1.) Install pax-runner from https://ops4j1.jira.com/wiki/display/paxrunner/Pax+Runner
-2.) pax-run --args=https://github.com/ECF/ECF4Felix/raw/master/eclipse.ecf.dosgi.args
+1a.) wget http://search.maven.org/remotecontent?filepath=org/ops4j/pax/runner/pax-runner-assembly/1.8.5/pax-runner-assembly-1.8.5-jdk15.zip -O pax-runner-assembly.zip
+1b.) unzip pax-runner-assembly.zip
+1c.) dos2unix pax-runner-*/bin/pax-run*.sh # (on unix only)
+2.) pax-runner-*/bin/pax-run.sh --args=https://github.com/ECF/ECF4Felix/raw/master/eclipse.ecf.dosgi.args
 3.) Open http://localhost:8080/system/console/
