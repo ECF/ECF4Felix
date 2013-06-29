@@ -1,3 +1,12 @@
+Do not use this anymore
+=======================
+This concept has been superseded by generating Apache Karaf as part of ECF's regular build [1].
+
+[1] http://dev.eclipse.org/mhonarc/lists/ecf-dev/msg06391.html
+
+
+Old instructions
+=========================
 1.) Install pax-runner from https://ops4j1.jira.com/wiki/display/paxrunner/Pax+Runner
 1a.) wget http://search.maven.org/remotecontent?filepath=org/ops4j/pax/runner/pax-runner-assembly/1.8.5/pax-runner-assembly-1.8.5-jdk15.zip -O pax-runner-assembly.zip
 1b.) unzip pax-runner-assembly.zip
